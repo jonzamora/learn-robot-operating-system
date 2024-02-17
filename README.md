@@ -8,3 +8,4 @@ This repository will be my playground for learning more about Robot Operating Sy
 
 - [A Gentle Introduction to ROS Book](https://jokane.net/agitr/)
 - [ROS Tutorials](https://wiki.ros.org/ROS/Tutorials)
+- [Gazebo Sim](https://gazebosim.org/home)
